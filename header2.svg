@@ -32,26 +32,15 @@
     <circle cx="500" cy="25" r="0.6" fill="#3fb950"><animate attributeName="cy" values="-10;250" dur="18s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- 3D CUBE - Isometric perspective -->
-  <g transform="translate(440, 115)">
+  <!-- 3D CUBE - behind text -->
+  <g transform="translate(440, 130)" opacity="0.5">
     <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite" additive="sum"/>
-    <!-- Back fill (subtle) -->
-    <polygon points="-50,-20 0,-55 50,-20 0,15" fill="#3fb950" fill-opacity="0.03"/>
-    <!-- Solid faces with depth -->
-    <!-- Top face -->
-    <polygon points="-50,-20 0,-55 50,-20 0,15" fill="#3fb950" fill-opacity="0.08" stroke="none"/>
-    <!-- Left face -->
-    <polygon points="-50,-20 0,15 0,65 -50,30" fill="#3fb950" fill-opacity="0.14" stroke="none"/>
-    <!-- Right face -->
-    <polygon points="50,-20 0,15 0,65 50,30" fill="#3fb950" fill-opacity="0.06" stroke="none"/>
-    <!-- Inner edges (subtle depth) -->
-    <g stroke="#3fb950" stroke-width="0.6" fill="none" opacity="0.12">
-      <line x1="0" y1="15" x2="0" y2="65"/>
-      <line x1="-25" y1="-2" x2="25" y2="-2"/>
-      <line x1="-25" y1="48" x2="25" y2="48"/>
-    </g>
-    <!-- Outer edges -->
-    <g stroke="#3fb950" stroke-width="1.8" fill="none" opacity="0.55">
+    <!-- Solid faces -->
+    <polygon points="-50,-20 0,-55 50,-20 0,15" fill="#3fb950" fill-opacity="0.08"/>
+    <polygon points="-50,-20 0,15 0,65 -50,30" fill="#3fb950" fill-opacity="0.14"/>
+    <polygon points="50,-20 0,15 0,65 50,30" fill="#3fb950" fill-opacity="0.06"/>
+    <!-- Edges -->
+    <g stroke="#3fb950" stroke-width="1.5" fill="none" opacity="0.45">
       <polygon points="-50,-20 0,-55 50,-20 0,15"/>
       <line x1="-50" y1="-20" x2="-50" y2="30"/>
       <line x1="50" y1="-20" x2="50" y2="30"/>
@@ -59,28 +48,25 @@
       <line x1="50" y1="30" x2="0" y2="65"/>
       <line x1="0" y1="15" x2="0" y2="65"/>
     </g>
-    <!-- Glowing edges -->
-    <g stroke="#3fb950" stroke-width="1" fill="none" opacity="0.4" filter="url(#cubeGlow)">
+    <!-- Glow -->
+    <g stroke="#3fb950" stroke-width="0.8" fill="none" opacity="0.3" filter="url(#cubeGlow)">
       <polygon points="-50,-20 0,-55 50,-20 0,15"/>
-      <line x1="-50" y1="-20" x2="-50" y2="30"/>
-      <line x1="50" y1="-20" x2="50" y2="30"/>
       <line x1="-50" y1="30" x2="0" y2="65"/>
       <line x1="50" y1="30" x2="0" y2="65"/>
-      <line x1="0" y1="15" x2="0" y2="65"/>
     </g>
     <!-- Corner dots -->
-    <g fill="#3fb950" opacity="0.7">
-      <circle cx="-50" cy="-20" r="2.5"/>
-      <circle cx="0" cy="-55" r="2.5"/>
-      <circle cx="50" cy="-20" r="2.5"/>
-      <circle cx="0" cy="15" r="2.5"/>
-      <circle cx="-50" cy="30" r="2.5"/>
-      <circle cx="50" cy="30" r="2.5"/>
-      <circle cx="0" cy="65" r="2.5"/>
+    <g fill="#3fb950" opacity="0.6">
+      <circle cx="-50" cy="-20" r="2"/>
+      <circle cx="0" cy="-55" r="2"/>
+      <circle cx="50" cy="-20" r="2"/>
+      <circle cx="0" cy="15" r="2"/>
+      <circle cx="-50" cy="30" r="2"/>
+      <circle cx="50" cy="30" r="2"/>
+      <circle cx="0" cy="65" r="2"/>
     </g>
   </g>
 
-  <!-- PIXEL TEXT -->
+  <!-- TEXT on top -->
   <text x="440" y="90" font-family="'Press Start 2P','Courier New',monospace" font-size="28" fill="#3fb950" text-anchor="middle" filter="url(#glow)" letter-spacing="3">RODRIGO MARTINS</text>
   <text x="440" y="136" font-family="'Press Start 2P','Courier New',monospace" font-size="10" fill="#3fb950" text-anchor="middle" opacity="0.85" letter-spacing="2">[ DEVELOPER ]</text>
   <text x="440" y="180" font-family="'VT323','Courier New',monospace" font-size="14" fill="#8b949e" text-anchor="middle">&gt; system ready for commands_</text>
