@@ -15,9 +15,6 @@
 <a href="https://github.com/rodrigomart123">
 <img src="https://img.shields.io/github/stars/rodrigomart123?color=3fb950&style=for-the-badge&logo=github&labelColor=0d1117&label=Stars&cacheSeconds=3600" alt="Stars"/>
 </a>
-<a href="https://komarev.com/ghpvc/?username=rodrigomart123">
-<img src="https://komarev.com/ghpvc/?username=rodrigomart123&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
 </div>
 
 <br/>
@@ -44,12 +41,6 @@
 <a href="mailto:rodmart12300@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Gmail"/>
 </a>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rodrigomart123&color=3fb950&style=flat-square&label=Visitor+Count" alt="Visitor Count"/>
 </div>
 
 <br/>
