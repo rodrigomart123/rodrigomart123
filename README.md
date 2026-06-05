@@ -1,14 +1,9 @@
 <div align="center">
 <svg width="880" height="200" viewBox="0 0 880 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
-      .t { font: bold 36px 'Press Start 2P', monospace; fill: #3fb950; }
-      .s { font: 11px 'Press Start 2P', monospace; fill: #8b949e; }
-    </style>
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
       <rect width="4" height="2" fill="rgba(0,0,0,0)"/>
-      <rect y="2" width="4" height="2" fill="rgba(0,0,0,0.15)"/>
+      <rect y="2" width="4" height="2" fill="rgba(0,0,0,0.12)"/>
     </pattern>
   </defs>
   <rect width="880" height="200" fill="#0d1117"/>
@@ -18,9 +13,9 @@
   <rect x="846" y="15" width="14" height="14" fill="#3fb950"/>
   <rect x="20" y="171" width="14" height="14" fill="#3fb950"/>
   <rect x="846" y="171" width="14" height="14" fill="#3fb950"/>
-  <text x="440" y="85" class="t" text-anchor="middle">RODRIGO MARTINS</text>
-  <text x="440" y="125" class="s" text-anchor="middle">[ FULL-STACK DEVELOPER ]</text>
-  <text x="440" y="160" class="s" text-anchor="middle">
+  <text x="440" y="85" font-family="'Courier New', monospace" font-size="36" font-weight="bold" fill="#3fb950" text-anchor="middle" letter-spacing="4">RODRIGO MARTINS</text>
+  <text x="440" y="125" font-family="'Courier New', monospace" font-size="13" fill="#8b949e" text-anchor="middle" letter-spacing="3">[ FULL-STACK DEVELOPER ]</text>
+  <text x="440" y="158" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" text-anchor="middle">
     <tspan fill="#3fb950">&gt;</tspan> system ready
   </text>
   <rect x="20" y="15" width="14" height="14" fill="#3fb950">
@@ -139,18 +134,12 @@
 
 <div align="center">
 <svg width="880" height="60" viewBox="0 0 880 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
-      .f { font: 9px 'Press Start 2P', monospace; fill: #3fb950; }
-    </style>
-  </defs>
   <rect width="880" height="60" fill="#0d1117"/>
   <rect x="20" y="5" width="840" height="50" fill="none" stroke="#3fb950" stroke-width="1"/>
   <rect x="20" y="5" width="10" height="10" fill="#3fb950"/>
   <rect x="850" y="5" width="10" height="10" fill="#3fb950"/>
   <rect x="20" y="45" width="10" height="10" fill="#3fb950"/>
   <rect x="850" y="45" width="10" height="10" fill="#3fb950"/>
-  <text x="440" y="36" class="f" text-anchor="middle">[ EOF ]</text>
+  <text x="440" y="36" font-family="'Courier New', monospace" font-size="11" fill="#3fb950" text-anchor="middle" letter-spacing="3">[ EOF ]</text>
 </svg>
 </div>
