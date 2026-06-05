@@ -1,32 +1,66 @@
-<svg width="880" height="200" viewBox="0 0 880 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="880" height="240" viewBox="0 0 880 240" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
       <rect width="4" height="2" fill="rgba(0,0,0,0)"/>
-      <rect y="2" width="4" height="2" fill="rgba(0,0,0,0.12)"/>
+      <rect y="2" width="4" height="2" fill="rgba(0,0,0,0.10)"/>
     </pattern>
   </defs>
-  <rect width="880" height="200" fill="#0d1117"/>
-  <rect width="880" height="200" fill="url(#scan)"/>
-  <rect x="20" y="15" width="840" height="170" fill="none" stroke="#3fb950" stroke-width="2"/>
-  <rect x="20" y="15" width="14" height="14" fill="#3fb950"/>
-  <rect x="846" y="15" width="14" height="14" fill="#3fb950"/>
-  <rect x="20" y="171" width="14" height="14" fill="#3fb950"/>
-  <rect x="846" y="171" width="14" height="14" fill="#3fb950"/>
-  <text x="440" y="85" font-family="'Courier New', monospace" font-size="36" font-weight="bold" fill="#3fb950" text-anchor="middle" letter-spacing="4">RODRIGO MARTINS</text>
-  <text x="440" y="125" font-family="'Courier New', monospace" font-size="13" fill="#8b949e" text-anchor="middle" letter-spacing="3">[ FULL-STACK DEVELOPER ]</text>
-  <text x="440" y="158" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" text-anchor="middle">
-    <tspan fill="#3fb950">&gt;</tspan> system ready
-  </text>
-  <rect x="20" y="15" width="14" height="14" fill="#3fb950">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+
+  <rect width="880" height="240" fill="#0d1117"/>
+  <rect width="880" height="240" fill="url(#scan)"/>
+
+  <rect x="15" y="10" width="850" height="220" fill="none" stroke="#3fb950" stroke-width="2"/>
+  <rect x="15" y="10" width="12" height="12" fill="#3fb950"/>
+  <rect x="853" y="10" width="12" height="12" fill="#3fb950"/>
+  <rect x="15" y="218" width="12" height="12" fill="#3fb950"/>
+  <rect x="853" y="218" width="12" height="12" fill="#3fb950"/>
+
+  <rect x="25" y="22" width="830" height="28" fill="none" stroke="#238636" stroke-width="1"/>
+  <text x="440" y="41" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#3fb950" text-anchor="middle" letter-spacing="3">RODRIGO MARTINS</text>
+  <text x="790" y="41" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="end">[v1.0.0]</text>
+
+  <line x1="25" y1="62" x2="855" y2="62" stroke="#238636" stroke-width="1"/>
+
+  <text x="35" y="88" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">&gt; STATUS</text>
+  <text x="130" y="88" font-family="'Courier New', monospace" font-size="11" fill="#3fb950">ACTIVE</text>
+
+  <text x="35" y="108" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">&gt; CLASS</text>
+  <text x="130" y="108" font-family="'Courier New', monospace" font-size="11" fill="#3fb950">DEVELOPER</text>
+
+  <text x="35" y="128" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">&gt; SCORE</text>
+  <text x="130" y="128" font-family="'Courier New', monospace" font-size="11" fill="#3fb950">42,069</text>
+
+  <text x="480" y="88" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">XP</text>
+  <rect x="510" y="76" width="200" height="14" fill="#161b22" stroke="#238636" stroke-width="1"/>
+  <rect x="510" y="76" width="160" height="14" fill="#3fb950">
+    <animate attributeName="width" values="0;160" dur="2s" fill="freeze"/>
   </rect>
-  <rect x="846" y="15" width="14" height="14" fill="#3fb950">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+  <text x="720" y="88" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">80%</text>
+
+  <text x="480" y="113" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">EN</text>
+  <rect x="510" y="101" width="200" height="14" fill="#161b22" stroke="#238636" stroke-width="1"/>
+  <rect x="510" y="101" width="112" height="14" fill="#3fb950">
+    <animate attributeName="width" values="0;112" dur="2s" fill="freeze"/>
   </rect>
-  <rect x="20" y="171" width="14" height="14" fill="#3fb950">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+  <text x="720" y="113" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">56%</text>
+
+  <line x1="25" y1="148" x2="855" y2="148" stroke="#238636" stroke-width="1"/>
+
+  <text x="35" y="180" font-family="'Courier New', monospace" font-size="12" fill="#3fb950">&gt; system ready for commands...</text>
+  <rect x="288" y="168" width="8" height="14" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
-  <rect x="846" y="171" width="14" height="14" fill="#3fb950">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+
+  <rect x="15" y="10" width="12" height="12" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="853" y="10" width="12" height="12" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="15" y="218" width="12" height="12" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="853" y="218" width="12" height="12" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/>
   </rect>
 </svg>

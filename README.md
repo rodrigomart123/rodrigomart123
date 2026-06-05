@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=%5E3+BOOT+SEQUENCE+COMPLETE;Hello+World!;Full-Stack+Developer;Open+Source+Enthusiast" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=%5E3+BOOT+SEQUENCE+COMPLETE;Hello+World!;Developer;Open+Source+Enthusiast" alt=""/>
 </div>
 
 <br/>
@@ -41,10 +41,7 @@
 <br/>
 
 <div align="center">
-<a href="https://rodrigomart.dev">
-<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=3fb950" alt="Portfolio"/>
-</a>
-<a href="mailto:rodrigomart123@gmail.com">
+<a href="mailto:rodmart12300@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Gmail"/>
 </a>
 </div>
