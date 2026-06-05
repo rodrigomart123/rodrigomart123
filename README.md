@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/rodrigomart123/rodrigomart123@main/header2.svg?v=2" width="100%" alt=""/>
+<img src="https://github.com/rodrigomart123/rodrigomart123/blob/main/header2.svg?raw=true" width="100%" alt=""/>
 
 <br/>
 
