@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rodrigomart123/rodrigomart123/main/header.svg?v=3" width="100%" alt=""/>
+<img src="https://github.com/rodrigomart123/rodrigomart123/raw/main/header2.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -31,9 +31,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigomart123/rodrigomart123/output/github-snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigomart123/rodrigomart123/output/github-snake.svg?v=2" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/rodrigomart123/rodrigomart123/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rodrigomart123/rodrigomart123/raw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rodrigomart123/rodrigomart123/raw/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://github.com/rodrigomart123/rodrigomart123/raw/output/github-snake-dark.svg" />
 </picture>
 
 <br/>
@@ -54,4 +54,4 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/rodrigomart123/rodrigomart123/main/footer.svg?v=2" width="100%" alt=""/>
+<img src="https://github.com/rodrigomart123/rodrigomart123/raw/main/footer.svg" width="100%" alt=""/>
