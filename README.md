@@ -1,37 +1,4 @@
-<div align="center">
-<svg width="880" height="200" viewBox="0 0 880 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="2" fill="rgba(0,0,0,0)"/>
-      <rect y="2" width="4" height="2" fill="rgba(0,0,0,0.12)"/>
-    </pattern>
-  </defs>
-  <rect width="880" height="200" fill="#0d1117"/>
-  <rect width="880" height="200" fill="url(#scan)"/>
-  <rect x="20" y="15" width="840" height="170" fill="none" stroke="#3fb950" stroke-width="2"/>
-  <rect x="20" y="15" width="14" height="14" fill="#3fb950"/>
-  <rect x="846" y="15" width="14" height="14" fill="#3fb950"/>
-  <rect x="20" y="171" width="14" height="14" fill="#3fb950"/>
-  <rect x="846" y="171" width="14" height="14" fill="#3fb950"/>
-  <text x="440" y="85" font-family="'Courier New', monospace" font-size="36" font-weight="bold" fill="#3fb950" text-anchor="middle" letter-spacing="4">RODRIGO MARTINS</text>
-  <text x="440" y="125" font-family="'Courier New', monospace" font-size="13" fill="#8b949e" text-anchor="middle" letter-spacing="3">[ FULL-STACK DEVELOPER ]</text>
-  <text x="440" y="158" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" text-anchor="middle">
-    <tspan fill="#3fb950">&gt;</tspan> system ready
-  </text>
-  <rect x="20" y="15" width="14" height="14" fill="#3fb950">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="846" y="15" width="14" height="14" fill="#3fb950">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="20" y="171" width="14" height="14" fill="#3fb950">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="846" y="171" width="14" height="14" fill="#3fb950">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-</div>
+<img src="https://raw.githubusercontent.com/rodrigomart123/rodrigomart123/main/header.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -55,27 +22,6 @@
 
 <br/>
 
-<p align="center">
-<svg width="240" height="16" viewBox="0 0 240 16" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="4" width="10" height="10" fill="#3fb950" opacity="0.2"/>
-  <rect x="14" y="4" width="10" height="10" fill="#3fb950" opacity="0.35"/>
-  <rect x="28" y="4" width="10" height="10" fill="#3fb950" opacity="0.5"/>
-  <rect x="42" y="4" width="10" height="10" fill="#3fb950" opacity="0.7"/>
-  <rect x="56" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="70" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="84" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="98" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="112" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="126" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="140" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="154" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="168" y="4" width="10" height="10" fill="#3fb950" opacity="0.7"/>
-  <rect x="182" y="4" width="10" height="10" fill="#3fb950" opacity="0.5"/>
-  <rect x="196" y="4" width="10" height="10" fill="#3fb950" opacity="0.35"/>
-  <rect x="210" y="4" width="10" height="10" fill="#3fb950" opacity="0.2"/>
-</svg>
-</p>
-
 <br/>
 
 <div align="center">
@@ -91,27 +37,6 @@
 </picture>
 
 <br/>
-
-<p align="center">
-<svg width="240" height="16" viewBox="0 0 240 16" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="4" width="10" height="10" fill="#3fb950" opacity="0.2"/>
-  <rect x="14" y="4" width="10" height="10" fill="#3fb950" opacity="0.35"/>
-  <rect x="28" y="4" width="10" height="10" fill="#3fb950" opacity="0.5"/>
-  <rect x="42" y="4" width="10" height="10" fill="#3fb950" opacity="0.7"/>
-  <rect x="56" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="70" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="84" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="98" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="112" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="126" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="140" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="154" y="4" width="10" height="10" fill="#3fb950"/>
-  <rect x="168" y="4" width="10" height="10" fill="#3fb950" opacity="0.7"/>
-  <rect x="182" y="4" width="10" height="10" fill="#3fb950" opacity="0.5"/>
-  <rect x="196" y="4" width="10" height="10" fill="#3fb950" opacity="0.35"/>
-  <rect x="210" y="4" width="10" height="10" fill="#3fb950" opacity="0.2"/>
-</svg>
-</p>
 
 <br/>
 
@@ -132,14 +57,4 @@
 
 <br/>
 
-<div align="center">
-<svg width="880" height="60" viewBox="0 0 880 60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="880" height="60" fill="#0d1117"/>
-  <rect x="20" y="5" width="840" height="50" fill="none" stroke="#3fb950" stroke-width="1"/>
-  <rect x="20" y="5" width="10" height="10" fill="#3fb950"/>
-  <rect x="850" y="5" width="10" height="10" fill="#3fb950"/>
-  <rect x="20" y="45" width="10" height="10" fill="#3fb950"/>
-  <rect x="850" y="45" width="10" height="10" fill="#3fb950"/>
-  <text x="440" y="36" font-family="'Courier New', monospace" font-size="11" fill="#3fb950" text-anchor="middle" letter-spacing="3">[ EOF ]</text>
-</svg>
-</div>
+<img src="https://raw.githubusercontent.com/rodrigomart123/rodrigomart123/main/footer.svg" width="100%" alt=""/>
