@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3fb950,100:0d1117&height=220&section=header&text=rodrigomart123&fontSize=70&fontColor=3fb950&fontAlignY=35&desc=Building%20cool%20stuff%20one%20commit%20at%20a%20time&descSize=20&descColor=8b949e&animation=fadeIn" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3fb950,100:0d1117&height=220&section=header&text=rodrigomart123&fontSize=70&fontColor=3fb950&fontAlignY=35&animation=fadeIn" width="100%" alt=""/>
 
 <br/>
 
