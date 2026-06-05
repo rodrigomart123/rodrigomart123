@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=220&section=header&text=rodrigomart123&fontSize=70&fontColor=58a6ff&fontAlignY=35&desc=Building%20cool%20stuff%20one%20commit%20at%20a%20time&descSize=20&descColor=8b949e&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3fb950,100:0d1117&height=220&section=header&text=rodrigomart123&fontSize=70&fontColor=3fb950&fontAlignY=35&desc=Building%20cool%20stuff%20one%20commit%20at%20a%20time&descSize=20&descColor=8b949e&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Rodrigo;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%B1;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Rodrigo;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%B1;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -12,10 +12,10 @@
 
 <div align="center">
   
-  [![Typing SVG](https://img.shields.io/badge/-Code%20is%20poetry-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://git.io/typing-svg)
-  ![Profile Views](https://komarev.com/ghpvc/?username=rodrigomart123&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/rodrigomart123?color=58a6ff&style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/rodrigomart123)
-  [![GitHub stars](https://img.shields.io/github/stars/rodrigomart123?color=58a6ff&style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/rodrigomart123)
+  <img src="https://img.shields.io/badge/-Code%20is%20poetry-0d1117?style=for-the-badge&logo=github&logoColor=3fb950&labelColor=0d1117"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=rodrigomart123&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS)
+  [![GitHub followers](https://img.shields.io/github/followers/rodrigomart123?color=3fb950&style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/rodrigomart123)
+  [![GitHub stars](https://img.shields.io/github/stars/rodrigomart123?color=3fb950&style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/rodrigomart123)
 
 </div>
 
@@ -88,14 +88,14 @@ const rodrigo = {
 ### <img src="https://media.giphy.com/media/du3J3cXyzhj75IO7cI/giphy.gif" width="30" height="30"/> `git log --oneline --graph`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rodrigomart123&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=rodrigomart123&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rodrigomart123&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=rodrigomart123&theme=github-dark&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomart123&theme=github_dark&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomart123&theme=github_dark&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -127,7 +127,7 @@ const rodrigo = {
 ### `git log --graph --all`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomart123&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb" alt="Activity Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomart123&theme=github-compact&hide_border=true&bg_color=0d1117&color=3fb950&line=3fb950&point=c9d1d9&area=true&area_color=238636" alt="Activity Graph" width="98%"/>
 </div>
 
 <br/>
@@ -139,30 +139,18 @@ const rodrigo = {
 <div align="center">
   
   <a href="https://www.linkedin.com/in/rodrigomart123">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3fb950" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/rodrigomart123">
-    <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1da1f2" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=3fb950" alt="Twitter"/>
   </a>
   <a href="mailto:rodrigomart123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Gmail"/>
   </a>
   <a href="https://rodrigomart.dev">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=3fb950" alt="Portfolio"/>
   </a>
 
-</div>
-
-<br/>
-
-<!-- ==================== SONG ==================== -->
-
-### `now playing 🎧`
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinan.com/api/view?uid=rodrigomart123&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing"/>
-  </a>
 </div>
 
 <br/>
@@ -170,13 +158,13 @@ const rodrigo = {
 <!-- ==================== FOOTER ==================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3fb950,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
   
   **Thanks for dropping by! 👋**
   
-  <img src="https://komarev.com/ghpvc/?username=rodrigomart123&color=58a6ff&style=flat-square&label=Visitor+Count" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=rodrigomart123&color=3fb950&style=flat-square&label=Visitor+Count" alt="Visitor Count"/>
   
 </div>

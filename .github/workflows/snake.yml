@@ -21,8 +21,8 @@ jobs:
             dist/github-snake-dark.svg
             dist/ocean.gif
           palette: |
-            "#0d1117,#58a6ff,#1f6feb,#c9d1d9"
-            "#0d1117,#58a6ff,#1f6feb,#c9d1d9"
+            "#0d1117,#3fb950,#238636,#c9d1d9"
+            "#0d1117,#3fb950,#238636,#c9d1d9"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
