@@ -10,10 +10,10 @@
 
 <div align="center">
 <a href="https://github.com/rodrigomart123">
-<img src="https://img.shields.io/github/followers/rodrigomart123?color=3fb950&style=for-the-badge&logo=github&labelColor=0d1117&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/rodrigomart123?color=3fb950&style=for-the-badge&logo=github&labelColor=0d1117&label=Followers&cacheSeconds=3600" alt="Followers"/>
 </a>
 <a href="https://github.com/rodrigomart123">
-<img src="https://img.shields.io/github/stars/rodrigomart123?color=3fb950&style=for-the-badge&logo=github&labelColor=0d1117&label=Stars" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/rodrigomart123?color=3fb950&style=for-the-badge&logo=github&labelColor=0d1117&label=Stars&cacheSeconds=3600" alt="Stars"/>
 </a>
 <a href="https://komarev.com/ghpvc/?username=rodrigomart123">
 <img src="https://komarev.com/ghpvc/?username=rodrigomart123&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
