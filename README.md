@@ -55,30 +55,17 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="C#"/>
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="Lua"/>
-  <img src="https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="CSS"/>
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=sqlite&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="SQL"/>
-  <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="Git"/>
+
+| Languages | Frameworks & Tools |
+|:---------:|:------------------:|
+| <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="TypeScript"/> <img src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="C#"/> <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="PHP"/> <img src="https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="Lua"/> <img src="https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="PowerShell"/> | <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="React Native"/> <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="CSS"/> <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=sqlite&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="SQL"/> <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=3fb950&labelColor=0d1117&color=3fb950" alt="Git"/> |
+
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github.com/rodrigomart123/rodrigomart123/blob/main/broly.gif?raw=true" width="150" alt="Broly - Legendary Super Saiyan"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <code style="font-family:monospace;color:#3fb950;font-size:14px;letter-spacing:3px;">Thank you for reading</code>
 </div>
 
 <br/>
