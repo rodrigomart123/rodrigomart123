@@ -1,41 +1,90 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3fb950,100:0d1117&height=220&section=header&text=rodrigomart123&fontSize=70&fontColor=3fb950&fontAlignY=35&animation=fadeIn" width="100%" alt=""/>
-
-<br/>
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=%5E3+BOOT+SEQUENCE+COMPLETE;Hello+World!;Full-Stack+Developer;Open+Source+Enthusiast" alt=""/>
-
+<svg width="880" height="200" viewBox="0 0 880 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+      .t { font: bold 36px 'Press Start 2P', monospace; fill: #3fb950; }
+      .s { font: 11px 'Press Start 2P', monospace; fill: #8b949e; }
+    </style>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="rgba(0,0,0,0)"/>
+      <rect y="2" width="4" height="2" fill="rgba(0,0,0,0.15)"/>
+    </pattern>
+  </defs>
+  <rect width="880" height="200" fill="#0d1117"/>
+  <rect width="880" height="200" fill="url(#scan)"/>
+  <rect x="20" y="15" width="840" height="170" fill="none" stroke="#3fb950" stroke-width="2"/>
+  <rect x="20" y="15" width="14" height="14" fill="#3fb950"/>
+  <rect x="846" y="15" width="14" height="14" fill="#3fb950"/>
+  <rect x="20" y="171" width="14" height="14" fill="#3fb950"/>
+  <rect x="846" y="171" width="14" height="14" fill="#3fb950"/>
+  <text x="440" y="85" class="t" text-anchor="middle">RODRIGO MARTINS</text>
+  <text x="440" y="125" class="s" text-anchor="middle">[ FULL-STACK DEVELOPER ]</text>
+  <text x="440" y="160" class="s" text-anchor="middle">
+    <tspan fill="#3fb950">&gt;</tspan> system ready
+  </text>
+  <rect x="20" y="15" width="14" height="14" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="846" y="15" width="14" height="14" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="20" y="171" width="14" height="14" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="846" y="171" width="14" height="14" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=%5E3+BOOT+SEQUENCE+COMPLETE;Hello+World!;Full-Stack+Developer;Open+Source+Enthusiast" alt=""/>
+</div>
 
+<br/>
+
+<div align="center">
 <a href="https://github.com/rodrigomart123">
 <img src="https://img.shields.io/github/followers/rodrigomart123?color=3fb950&style=for-the-badge&logo=github&labelColor=0d1117&label=Followers" alt="Followers"/>
 </a>
-
 <a href="https://github.com/rodrigomart123">
 <img src="https://img.shields.io/github/stars/rodrigomart123?color=3fb950&style=for-the-badge&logo=github&labelColor=0d1117&label=Stars" alt="Stars"/>
 </a>
-
 <a href="https://komarev.com/ghpvc/?username=rodrigomart123">
 <img src="https://komarev.com/ghpvc/?username=rodrigomart123&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
-
 </div>
 
 <br/>
 
----
+<p align="center">
+<svg width="240" height="16" viewBox="0 0 240 16" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="4" width="10" height="10" fill="#3fb950" opacity="0.2"/>
+  <rect x="14" y="4" width="10" height="10" fill="#3fb950" opacity="0.35"/>
+  <rect x="28" y="4" width="10" height="10" fill="#3fb950" opacity="0.5"/>
+  <rect x="42" y="4" width="10" height="10" fill="#3fb950" opacity="0.7"/>
+  <rect x="56" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="70" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="84" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="98" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="112" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="126" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="140" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="154" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="168" y="4" width="10" height="10" fill="#3fb950" opacity="0.7"/>
+  <rect x="182" y="4" width="10" height="10" fill="#3fb950" opacity="0.5"/>
+  <rect x="196" y="4" width="10" height="10" fill="#3fb950" opacity="0.35"/>
+  <rect x="210" y="4" width="10" height="10" fill="#3fb950" opacity="0.2"/>
+</svg>
+</p>
 
 <br/>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomart123&theme=github-compact&hide_border=true&bg_color=0d1117&color=3fb950&line=3fb950&point=c9d1d9&area=true&area_color=238636" alt="Activity Graph" width="98%"/>
-
 </div>
 
 <br/>
@@ -48,28 +97,36 @@
 
 <br/>
 
----
+<p align="center">
+<svg width="240" height="16" viewBox="0 0 240 16" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="4" width="10" height="10" fill="#3fb950" opacity="0.2"/>
+  <rect x="14" y="4" width="10" height="10" fill="#3fb950" opacity="0.35"/>
+  <rect x="28" y="4" width="10" height="10" fill="#3fb950" opacity="0.5"/>
+  <rect x="42" y="4" width="10" height="10" fill="#3fb950" opacity="0.7"/>
+  <rect x="56" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="70" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="84" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="98" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="112" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="126" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="140" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="154" y="4" width="10" height="10" fill="#3fb950"/>
+  <rect x="168" y="4" width="10" height="10" fill="#3fb950" opacity="0.7"/>
+  <rect x="182" y="4" width="10" height="10" fill="#3fb950" opacity="0.5"/>
+  <rect x="196" y="4" width="10" height="10" fill="#3fb950" opacity="0.35"/>
+  <rect x="210" y="4" width="10" height="10" fill="#3fb950" opacity="0.2"/>
+</svg>
+</p>
 
 <br/>
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/rodrigomart123">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3fb950" alt="LinkedIn"/>
-</a>
-
-<a href="https://twitter.com/rodrigomart123">
-<img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=3fb950" alt="Twitter"/>
-</a>
-
-<a href="mailto:rodrigomart123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Gmail"/>
-</a>
-
 <a href="https://rodrigomart.dev">
 <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=3fb950" alt="Portfolio"/>
 </a>
-
+<a href="mailto:rodrigomart123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950" alt="Gmail"/>
+</a>
 </div>
 
 <br/>
@@ -78,4 +135,22 @@
 <img src="https://komarev.com/ghpvc/?username=rodrigomart123&color=3fb950&style=flat-square&label=Visitor+Count" alt="Visitor Count"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3fb950,100:0d1117&height=120&section=footer" width="100%" alt=""/>
+<br/>
+
+<div align="center">
+<svg width="880" height="60" viewBox="0 0 880 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+      .f { font: 9px 'Press Start 2P', monospace; fill: #3fb950; }
+    </style>
+  </defs>
+  <rect width="880" height="60" fill="#0d1117"/>
+  <rect x="20" y="5" width="840" height="50" fill="none" stroke="#3fb950" stroke-width="1"/>
+  <rect x="20" y="5" width="10" height="10" fill="#3fb950"/>
+  <rect x="850" y="5" width="10" height="10" fill="#3fb950"/>
+  <rect x="20" y="45" width="10" height="10" fill="#3fb950"/>
+  <rect x="850" y="45" width="10" height="10" fill="#3fb950"/>
+  <text x="440" y="36" class="f" text-anchor="middle">[ EOF ]</text>
+</svg>
+</div>
