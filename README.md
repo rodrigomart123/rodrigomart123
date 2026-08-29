@@ -21,11 +21,6 @@
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomart123&theme=github-compact&hide_border=true&bg_color=0d1117&color=3fb950&line=3fb950&point=c9d1d9&area=true&area_color=238636" alt="Activity Graph" width="98%"/>
-</div>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/rodrigomart123/rodrigomart123@output/github-snake-dark.svg" />
